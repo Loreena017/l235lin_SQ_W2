@@ -8,6 +8,9 @@
 // Instead of separate variables (playerX, playerY, playerVX...),
 // we store everything about the player in one object.
 // ------------------------------------------------------------
+let kirbybackground;
+let kirby;
+
 let platform1 = [
   {x: 600, y: 300, w: 100, h: 20},
   {x: 400, y: 200, w: 150, h: 20},
