@@ -64,7 +64,7 @@ let floorY;
 // ============================================================
 function preload() {
   kirbybackground = loadImage("assets/images/kirbybackground.png");
-  kirby = loadImage("assets/images/kirby.png");
+  kirby = loadImage("assets/images/Kirby.png");
 }
 
 function setup() {
